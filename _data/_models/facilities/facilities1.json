@@ -1,6 +1,6 @@
 {
-    "name": "The Spa",
-    "description":  "Have a nice relaxing time at the spa",
-    "order": 1,
-    "hidden": false
+  "name": "Dining",
+  "description": " <br />Enjoy a satisfying meal at a restaurant serving guests of Magnuson Hotel Framingham. Quench your thirst with your favorite drink at a bar/lounge.",
+  "order": 1,
+  "hidden": false
 }
